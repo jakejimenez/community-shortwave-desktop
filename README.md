@@ -18,7 +18,7 @@ nativefier "https://app.shortwave.com" --user-agent "Mozilla/5.0 (X11; Ubuntu; L
 
 ### Download
 
-Navigate to the releases section and download the [Shortwave community desktop compiled package](https://github.com/jakejimenez/community-shortwave-desktop/releases/tag/v0.1.0-alpha)
+Navigate to the releases section and download the [Shortwave community desktop compiled package](https://github.com/jakejimenez/community-shortwave-desktop/releases/download/v0.1.0-alpha/Shortwave-darwin-x64.zip)
 
 ## License
 See [LICENSE](LICENSE)
