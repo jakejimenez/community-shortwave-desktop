@@ -1,5 +1,5 @@
 # community-shortwave-desktop
-Community version of Shortwave app for macOS, Windows, and Linux
+Community version of Shortwave app for macOS
 
 * Steps to install:
 1. Install this specific version of nativefier ```npm install -g nativefier@43.1.3```
