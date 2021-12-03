@@ -16,7 +16,7 @@ nativefier "https://app.shortwave.com" --user-agent "Mozilla/5.0 (X11; Ubuntu; L
 4. You may run this command with different application names, replacing "Shortwave" with "Shortwave_0" for multiple concurrent versions. 
 5. Navigate to the compiled application and run!
 
-### Download
+## Download
 
 Navigate to the releases section and download the [Shortwave community desktop compiled package](https://github.com/jakejimenez/community-shortwave-desktop/releases/download/v0.1.0-alpha/Shortwave-darwin-x64.zip)
 
